@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:mediarouter-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-28.0.0.aar/1662a56664a2fa4ba7095fe98420ace2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/46863c84b610683a1bab92a261611c1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] /home/tushar/.gradle/caches/transforms-1/files-1.1/EazeGraph-1.0.3.aar/be3655a22012b4857ab66e8f8dcf4f5c/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/8890cf04fb7524d756334b6d6951b64a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/palette-v7-28.0.0.aar/2a656f2a254465b0c90bb22547476e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/36dbc2422be7d9665b22533cdb3d65f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/165b1ea9b3a7b86a0306fc9ca160f57d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3849b5611be6b9ff110cc96fe4b89f3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6bc77ba18acf80ea83ffcbd5a2eaee1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e3d03526234c62d288da3bb00d655f71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9c82224b6db47b0fe53d39fcc7e43121/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79acd11ff16c87ee22bac82455fd7adf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3958f598f2498517062a87f563b1e246/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6cad8a2d74e2a70924fdd4fb64bf1ce8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f583f23921b4f2fcb6dc4671fef599c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4408c80d7e7fa47730e9184d055b8381/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/576c73d87b56f370001b0c7d2c6a7cee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0e76dc5ec721a854e0d4d9c9f6aecaee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b37b5587cd7d6a70ff8bcbcbc4577f4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bfed103a8e582741528e6483d7700ae0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/60b6752bf5ea384c86f7eef2191b0df6/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc8020a2abb7bf6126f54ed62aec926f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e81ef48ae37da8dd69e746dd078bb2bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d375859303a5fe667dcd95d7eaf953bd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d84e87f3d92daf12896908ef5ac3dc39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0cbdddc1b2dcff7b20461ba06c193332/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6cd0f94b3eb2e9e1f0927cb0f945b89f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/330391748a6a57c379a3d62519a1e40a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2aca67d48f3f6426f519f60dd234521a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e881e4b05bfa91afe4fa775517bc0e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/19d19f618061961a0626890c10f3e0e8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:7:5-33
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:4:5-63
+	android:versionCode
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:6:5-31
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:9:5-46
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:9:5-46
+MERGED from [com.android.support:mediarouter-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-28.0.0.aar/1662a56664a2fa4ba7095fe98420ace2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-28.0.0.aar/1662a56664a2fa4ba7095fe98420ace2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/46863c84b610683a1bab92a261611c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/46863c84b610683a1bab92a261611c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] /home/tushar/.gradle/caches/transforms-1/files-1.1/EazeGraph-1.0.3.aar/be3655a22012b4857ab66e8f8dcf4f5c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] /home/tushar/.gradle/caches/transforms-1/files-1.1/EazeGraph-1.0.3.aar/be3655a22012b4857ab66e8f8dcf4f5c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/8890cf04fb7524d756334b6d6951b64a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/8890cf04fb7524d756334b6d6951b64a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/palette-v7-28.0.0.aar/2a656f2a254465b0c90bb22547476e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/palette-v7-28.0.0.aar/2a656f2a254465b0c90bb22547476e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/36dbc2422be7d9665b22533cdb3d65f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/36dbc2422be7d9665b22533cdb3d65f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/165b1ea9b3a7b86a0306fc9ca160f57d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/165b1ea9b3a7b86a0306fc9ca160f57d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3849b5611be6b9ff110cc96fe4b89f3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3849b5611be6b9ff110cc96fe4b89f3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6bc77ba18acf80ea83ffcbd5a2eaee1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6bc77ba18acf80ea83ffcbd5a2eaee1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e3d03526234c62d288da3bb00d655f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e3d03526234c62d288da3bb00d655f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9c82224b6db47b0fe53d39fcc7e43121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9c82224b6db47b0fe53d39fcc7e43121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79acd11ff16c87ee22bac82455fd7adf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79acd11ff16c87ee22bac82455fd7adf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3958f598f2498517062a87f563b1e246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3958f598f2498517062a87f563b1e246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6cad8a2d74e2a70924fdd4fb64bf1ce8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6cad8a2d74e2a70924fdd4fb64bf1ce8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f583f23921b4f2fcb6dc4671fef599c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f583f23921b4f2fcb6dc4671fef599c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4408c80d7e7fa47730e9184d055b8381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4408c80d7e7fa47730e9184d055b8381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/576c73d87b56f370001b0c7d2c6a7cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/576c73d87b56f370001b0c7d2c6a7cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0e76dc5ec721a854e0d4d9c9f6aecaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0e76dc5ec721a854e0d4d9c9f6aecaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b37b5587cd7d6a70ff8bcbcbc4577f4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b37b5587cd7d6a70ff8bcbcbc4577f4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bfed103a8e582741528e6483d7700ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bfed103a8e582741528e6483d7700ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/60b6752bf5ea384c86f7eef2191b0df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/60b6752bf5ea384c86f7eef2191b0df6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc8020a2abb7bf6126f54ed62aec926f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc8020a2abb7bf6126f54ed62aec926f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e81ef48ae37da8dd69e746dd078bb2bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e81ef48ae37da8dd69e746dd078bb2bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d375859303a5fe667dcd95d7eaf953bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d375859303a5fe667dcd95d7eaf953bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d84e87f3d92daf12896908ef5ac3dc39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d84e87f3d92daf12896908ef5ac3dc39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0cbdddc1b2dcff7b20461ba06c193332/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0cbdddc1b2dcff7b20461ba06c193332/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6cd0f94b3eb2e9e1f0927cb0f945b89f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6cd0f94b3eb2e9e1f0927cb0f945b89f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/330391748a6a57c379a3d62519a1e40a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/330391748a6a57c379a3d62519a1e40a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2aca67d48f3f6426f519f60dd234521a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2aca67d48f3f6426f519f60dd234521a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e881e4b05bfa91afe4fa775517bc0e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e881e4b05bfa91afe4fa775517bc0e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/19d19f618061961a0626890c10f3e0e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/tushar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/19d19f618061961a0626890c10f3e0e8/AndroidManifest.xml:20:5-44
+INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:9:5-46
+	android:targetSdkVersion
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:9:15-44
+	android:minSdkVersion
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:9:5-46
+		INJECTED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml
+uses-feature#android.hardware.sensor.stepcounter
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:11:5-13:34
+	android:required
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:12:9-59
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:18:5-94
+	android:maxSdkVersion
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:18:66-92
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:18:22-65
+application
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:20:5-90:19
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] /home/tushar/.gradle/caches/transforms-1/files-1.1/EazeGraph-1.0.3.aar/be3655a22012b4857ab66e8f8dcf4f5c/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] /home/tushar/.gradle/caches/transforms-1/files-1.1/EazeGraph-1.0.3.aar/be3655a22012b4857ab66e8f8dcf4f5c/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bfed103a8e582741528e6483d7700ae0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bfed103a8e582741528e6483d7700ae0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/60b6752bf5ea384c86f7eef2191b0df6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/60b6752bf5ea384c86f7eef2191b0df6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/tushar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bfed103a8e582741528e6483d7700ae0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:23:9-41
+		REJECTED from [com.github.j4velin.EazeGraph:EazeGraph:1.0.3] /home/tushar/.gradle/caches/transforms-1/files-1.1/EazeGraph-1.0.3.aar/be3655a22012b4857ab66e8f8dcf4f5c/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:24:9-79
+	tools:replace
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:25:9-30
+activity#de.j4velin.pedometer.ui.Activity_Main
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:29:13-45
+	android:launchMode
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:28:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:34:27-74
+receiver#de.j4velin.pedometer.BootReceiver
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:38:9-42:20
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:38:19-47
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:39:13-41:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:40:25-76
+receiver#de.j4velin.pedometer.AppUpdatedReceiver
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:43:9-47:20
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:43:19-53
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:44:13-46:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:45:17-83
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:45:25-81
+service#de.j4velin.pedometer.SensorListener
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:49:9-50:45
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:50:13-43
+service#de.j4velin.pedometer.widget.DashClock
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:52:9-68:19
+	android:permission
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:54:13-98
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:53:13-45
+intent-filter#com.google.android.apps.dashclock.Extension
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:55:13-57:29
+action#com.google.android.apps.dashclock.Extension
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:56:17-85
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:56:25-83
+meta-data#protocolVersion
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:59:13-61:36
+	android:value
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:61:17-34
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:60:17-47
+meta-data#worldReadable
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:62:13-64:39
+	android:value
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:64:17-37
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:63:17-45
+meta-data#description
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:65:13-67:65
+	android:value
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:67:17-63
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:66:17-43
+activity#de.j4velin.pedometer.widget.WidgetConfig
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:70:9-76:20
+	android:theme
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:72:13-73
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:71:13-48
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:73:13-75:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:74:17-86
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:74:25-84
+receiver#de.j4velin.pedometer.widget.Widget
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:78:9-86:20
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:78:19-48
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:79:13-81:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:80:17-83
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:80:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:83:13-85:49
+	android:resource
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:85:17-47
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:84:17-58
+service#de.j4velin.pedometer.widget.WidgetUpdateService
+ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:88:9-89:76
+	android:exported
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:88:61-84
+	android:permission
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:89:18-74
+	android:name
+		ADDED from /home/tushar/Pictures/Pedometer/src/main/AndroidManifest.xml:88:18-60
+activity#de.j4velin.lib.colorpicker.ExtractFromPhoto
+ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:12:9-15:54
+	android:hardwareAccelerated
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:14:13-48
+	android:theme
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.github.j4velin.colorpicker:colorpicker:1.20.6] /home/tushar/.gradle/caches/transforms-1/files-1.1/colorpicker-1.20.6.aar/32fe3f7a17a1f5e0ba83e58bbd6d411f/AndroidManifest.xml:13:13-71
